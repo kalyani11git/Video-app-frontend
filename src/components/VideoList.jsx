@@ -123,7 +123,7 @@ const VideoList = () => {
                 </button>
                 <button
                   onClick={() => handleDelete(video._id)}
-                  className="bg-red-500 text-white px-4 py-2 rounded"
+                  className="bg-black text-white px-4 py-2 rounded"
                 >
                   Delete
                 </button>
